@@ -5,45 +5,16 @@
 <!-- markdownlint-disable MD041 -->
 # ChangeLog
 
-## [v1.0.0] - 2026-05-08
+## [v1.0.1] - 2026-06-23
 
 ## 🚀 What's Changed
 
 ### ✨ New Features (新功能)
 
-- 示例功能 by @DBJD-CR in #1
+- helloworld 指令现在同时显示用户 QQ 号
 
 ### ♻️ Refactor (重构)
 
-- 示例重构 by @DBJD-CR in #1
+- 简化 README.md，移除装饰性结构，保留核心功能描述
 
-### 🐛 Bug Fixes (修复)
-
-- 示例修复 by @DBJD-CR in #1
-
-### 📚 Documentation (文档)
-
-- 示例文档 by @DBJD-CR in #1
-
-### 🔧 Chore (杂项)
-
-- 示例杂项 by @DBJD-CR in #1
-
----
-
-## ❤️ New Contributors
-
-- @DBJD-CR made their first contribution in #1
-- @codex made their first contribution in #1
-- @roomote made their first contribution in #1
-- @sourcery-ai[bot] made their first contribution in #1
-- @gemini-code-assist[bot] made their first contribution in #1
-
-**Full Changelog**: https://github.com/DBJD-CR/astrbot_plugin_helloworld/compare/v1.0.0...v1.0.0
-
----
-
-<details>
-<summary>点击查看历史更新记录 (History)</summary>
-
-</details>
+## [v1.0.0] - 2026-05-08
